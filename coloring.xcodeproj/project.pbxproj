@@ -8,6 +8,39 @@
 
 /* Begin PBXBuildFile section */
 		D953998C2754BDE30089BF59 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D953998B2754BDE30089BF59 /* main.cpp */; };
+		D95399952754BE940089BF59 /* libbangtal.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = D95399942754BE940089BF59 /* libbangtal.dylib */; };
+		D95399962754BE940089BF59 /* libbangtal.dylib in Embed Libraries */ = {isa = PBXBuildFile; fileRef = D95399942754BE940089BF59 /* libbangtal.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		D95399B82756276D0089BF59 /* color_button_4.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399A22756276C0089BF59 /* color_button_4.png */; };
+		D95399B92756276D0089BF59 /* color_button_2.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399A32756276D0089BF59 /* color_button_2.png */; };
+		D95399BA2756276D0089BF59 /* color_scene1.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399A42756276D0089BF59 /* color_scene1.png */; };
+		D95399BB2756276D0089BF59 /* drawing_5.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399A52756276D0089BF59 /* drawing_5.png */; };
+		D95399BD2756276D0089BF59 /* background.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399A72756276D0089BF59 /* background.png */; };
+		D95399BE2756276D0089BF59 /* color_endButton.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399A82756276D0089BF59 /* color_endButton.png */; };
+		D95399BF2756276D0089BF59 /* color_button_0.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399A92756276D0089BF59 /* color_button_0.png */; };
+		D95399C02756276D0089BF59 /* drawing_1.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399AA2756276D0089BF59 /* drawing_1.png */; };
+		D95399C32756276D0089BF59 /* drawing_0.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399AD2756276D0089BF59 /* drawing_0.png */; };
+		D95399C52756276D0089BF59 /* drawing_11.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399AF2756276D0089BF59 /* drawing_11.png */; };
+		D95399C62756276D0089BF59 /* color_button_1.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399B02756276D0089BF59 /* color_button_1.png */; };
+		D95399C92756276D0089BF59 /* color_button_3.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399B32756276D0089BF59 /* color_button_3.png */; };
+		D95399CA2756276D0089BF59 /* drawing_2.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399B42756276D0089BF59 /* drawing_2.png */; };
+		D95399CB2756276D0089BF59 /* color_button_5.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399B52756276D0089BF59 /* color_button_5.png */; };
+		D95399CC2756276D0089BF59 /* drawing_4.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399B62756276D0089BF59 /* drawing_4.png */; };
+		D95399CD2756276D0089BF59 /* color_startButton.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399B72756276D0089BF59 /* color_startButton.png */; };
+		D95399D5275630FA0089BF59 /* color_story6.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399CE275630FA0089BF59 /* color_story6.png */; };
+		D95399D6275630FA0089BF59 /* color_story1.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399CF275630FA0089BF59 /* color_story1.png */; };
+		D95399D7275630FA0089BF59 /* color_story5.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399D0275630FA0089BF59 /* color_story5.png */; };
+		D95399D8275630FA0089BF59 /* color_story2.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399D1275630FA0089BF59 /* color_story2.png */; };
+		D95399D9275630FA0089BF59 /* color_story4.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399D2275630FA0089BF59 /* color_story4.png */; };
+		D95399DA275630FA0089BF59 /* color_story3.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399D3275630FA0089BF59 /* color_story3.png */; };
+		D95399DB275630FA0089BF59 /* color_story0.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399D4275630FA0089BF59 /* color_story0.png */; };
+		D95399DD27563B160089BF59 /* color_howto.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399DC27563B160089BF59 /* color_howto.png */; };
+		D95399E4275640870089BF59 /* drawing_white_2.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399DE275640870089BF59 /* drawing_white_2.png */; };
+		D95399E5275640870089BF59 /* drawing_white_4.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399DF275640870089BF59 /* drawing_white_4.png */; };
+		D95399E6275640870089BF59 /* drawing_white_1.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399E0275640870089BF59 /* drawing_white_1.png */; };
+		D95399E7275640870089BF59 /* drawing_white_3.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399E1275640870089BF59 /* drawing_white_3.png */; };
+		D95399E8275640870089BF59 /* drawing_white_5.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399E2275640870089BF59 /* drawing_white_5.png */; };
+		D95399E9275640870089BF59 /* drawing_white_0.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399E3275640870089BF59 /* drawing_white_0.png */; };
+		D95399EB275644580089BF59 /* color_end.png in Sources */ = {isa = PBXBuildFile; fileRef = D95399EA275644580089BF59 /* color_end.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -20,11 +53,54 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		D95399972754BE940089BF59 /* Embed Libraries */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				D95399962754BE940089BF59 /* libbangtal.dylib in Embed Libraries */,
+			);
+			name = "Embed Libraries";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		D95399882754BDE30089BF59 /* coloring */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = coloring; sourceTree = BUILT_PRODUCTS_DIR; };
 		D953998B2754BDE30089BF59 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D95399942754BE940089BF59 /* libbangtal.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libbangtal.dylib; path = ../../../../Library/Frameworks/Bangtal/lib/Release/libbangtal.dylib; sourceTree = "<group>"; };
+		D95399A22756276C0089BF59 /* color_button_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_button_4.png; path = coloring/drawing_images/color_button_4.png; sourceTree = "<group>"; };
+		D95399A32756276D0089BF59 /* color_button_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_button_2.png; path = coloring/drawing_images/color_button_2.png; sourceTree = "<group>"; };
+		D95399A42756276D0089BF59 /* color_scene1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_scene1.png; path = coloring/drawing_images/color_scene1.png; sourceTree = "<group>"; };
+		D95399A52756276D0089BF59 /* drawing_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drawing_5.png; path = coloring/drawing_images/drawing_5.png; sourceTree = "<group>"; };
+		D95399A72756276D0089BF59 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = background.png; path = coloring/drawing_images/background.png; sourceTree = "<group>"; };
+		D95399A82756276D0089BF59 /* color_endButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_endButton.png; path = coloring/drawing_images/color_endButton.png; sourceTree = "<group>"; };
+		D95399A92756276D0089BF59 /* color_button_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_button_0.png; path = coloring/drawing_images/color_button_0.png; sourceTree = "<group>"; };
+		D95399AA2756276D0089BF59 /* drawing_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drawing_1.png; path = coloring/drawing_images/drawing_1.png; sourceTree = "<group>"; };
+		D95399AD2756276D0089BF59 /* drawing_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drawing_0.png; path = coloring/drawing_images/drawing_0.png; sourceTree = "<group>"; };
+		D95399AF2756276D0089BF59 /* drawing_11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drawing_11.png; path = coloring/drawing_images/drawing_11.png; sourceTree = "<group>"; };
+		D95399B02756276D0089BF59 /* color_button_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_button_1.png; path = coloring/drawing_images/color_button_1.png; sourceTree = "<group>"; };
+		D95399B32756276D0089BF59 /* color_button_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_button_3.png; path = coloring/drawing_images/color_button_3.png; sourceTree = "<group>"; };
+		D95399B42756276D0089BF59 /* drawing_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drawing_2.png; path = coloring/drawing_images/drawing_2.png; sourceTree = "<group>"; };
+		D95399B52756276D0089BF59 /* color_button_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_button_5.png; path = coloring/drawing_images/color_button_5.png; sourceTree = "<group>"; };
+		D95399B62756276D0089BF59 /* drawing_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drawing_4.png; path = coloring/drawing_images/drawing_4.png; sourceTree = "<group>"; };
+		D95399B72756276D0089BF59 /* color_startButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_startButton.png; path = coloring/drawing_images/color_startButton.png; sourceTree = "<group>"; };
+		D95399CE275630FA0089BF59 /* color_story6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_story6.png; path = coloring/drawing_images/color_story6.png; sourceTree = "<group>"; };
+		D95399CF275630FA0089BF59 /* color_story1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_story1.png; path = coloring/drawing_images/color_story1.png; sourceTree = "<group>"; };
+		D95399D0275630FA0089BF59 /* color_story5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_story5.png; path = coloring/drawing_images/color_story5.png; sourceTree = "<group>"; };
+		D95399D1275630FA0089BF59 /* color_story2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_story2.png; path = coloring/drawing_images/color_story2.png; sourceTree = "<group>"; };
+		D95399D2275630FA0089BF59 /* color_story4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_story4.png; path = coloring/drawing_images/color_story4.png; sourceTree = "<group>"; };
+		D95399D3275630FA0089BF59 /* color_story3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_story3.png; path = coloring/drawing_images/color_story3.png; sourceTree = "<group>"; };
+		D95399D4275630FA0089BF59 /* color_story0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_story0.png; path = coloring/drawing_images/color_story0.png; sourceTree = "<group>"; };
+		D95399DC27563B160089BF59 /* color_howto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_howto.png; path = coloring/drawing_images/color_howto.png; sourceTree = "<group>"; };
+		D95399DE275640870089BF59 /* drawing_white_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drawing_white_2.png; path = coloring/drawing_images/drawing_white_2.png; sourceTree = "<group>"; };
+		D95399DF275640870089BF59 /* drawing_white_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drawing_white_4.png; path = coloring/drawing_images/drawing_white_4.png; sourceTree = "<group>"; };
+		D95399E0275640870089BF59 /* drawing_white_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drawing_white_1.png; path = coloring/drawing_images/drawing_white_1.png; sourceTree = "<group>"; };
+		D95399E1275640870089BF59 /* drawing_white_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drawing_white_3.png; path = coloring/drawing_images/drawing_white_3.png; sourceTree = "<group>"; };
+		D95399E2275640870089BF59 /* drawing_white_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drawing_white_5.png; path = coloring/drawing_images/drawing_white_5.png; sourceTree = "<group>"; };
+		D95399E3275640870089BF59 /* drawing_white_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drawing_white_0.png; path = coloring/drawing_images/drawing_white_0.png; sourceTree = "<group>"; };
+		D95399EA275644580089BF59 /* color_end.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = color_end.png; path = coloring/drawing_images/color_end.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +108,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D95399952754BE940089BF59 /* libbangtal.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -41,8 +118,40 @@
 		D953997F2754BDE30089BF59 = {
 			isa = PBXGroup;
 			children = (
+				D95399EA275644580089BF59 /* color_end.png */,
+				D95399E3275640870089BF59 /* drawing_white_0.png */,
+				D95399E0275640870089BF59 /* drawing_white_1.png */,
+				D95399DE275640870089BF59 /* drawing_white_2.png */,
+				D95399E1275640870089BF59 /* drawing_white_3.png */,
+				D95399DF275640870089BF59 /* drawing_white_4.png */,
+				D95399E2275640870089BF59 /* drawing_white_5.png */,
+				D95399DC27563B160089BF59 /* color_howto.png */,
+				D95399D4275630FA0089BF59 /* color_story0.png */,
+				D95399CF275630FA0089BF59 /* color_story1.png */,
+				D95399D1275630FA0089BF59 /* color_story2.png */,
+				D95399D3275630FA0089BF59 /* color_story3.png */,
+				D95399D2275630FA0089BF59 /* color_story4.png */,
+				D95399D0275630FA0089BF59 /* color_story5.png */,
+				D95399CE275630FA0089BF59 /* color_story6.png */,
+				D95399A72756276D0089BF59 /* background.png */,
+				D95399A92756276D0089BF59 /* color_button_0.png */,
+				D95399B02756276D0089BF59 /* color_button_1.png */,
+				D95399A32756276D0089BF59 /* color_button_2.png */,
+				D95399B32756276D0089BF59 /* color_button_3.png */,
+				D95399A22756276C0089BF59 /* color_button_4.png */,
+				D95399B52756276D0089BF59 /* color_button_5.png */,
+				D95399A82756276D0089BF59 /* color_endButton.png */,
+				D95399A42756276D0089BF59 /* color_scene1.png */,
+				D95399B72756276D0089BF59 /* color_startButton.png */,
+				D95399AD2756276D0089BF59 /* drawing_0.png */,
+				D95399AA2756276D0089BF59 /* drawing_1.png */,
+				D95399B42756276D0089BF59 /* drawing_2.png */,
+				D95399B62756276D0089BF59 /* drawing_4.png */,
+				D95399A52756276D0089BF59 /* drawing_5.png */,
+				D95399AF2756276D0089BF59 /* drawing_11.png */,
 				D953998A2754BDE30089BF59 /* coloring */,
 				D95399892754BDE30089BF59 /* Products */,
+				D95399932754BE940089BF59 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,6 +171,14 @@
 			path = coloring;
 			sourceTree = "<group>";
 		};
+		D95399932754BE940089BF59 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D95399942754BE940089BF59 /* libbangtal.dylib */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -72,6 +189,7 @@
 				D95399842754BDE30089BF59 /* Sources */,
 				D95399852754BDE30089BF59 /* Frameworks */,
 				D95399862754BDE30089BF59 /* CopyFiles */,
+				D95399972754BE940089BF59 /* Embed Libraries */,
 			);
 			buildRules = (
 			);
@@ -118,6 +236,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D95399EB275644580089BF59 /* color_end.png in Sources */,
+				D95399E4275640870089BF59 /* drawing_white_2.png in Sources */,
+				D95399E5275640870089BF59 /* drawing_white_4.png in Sources */,
+				D95399E6275640870089BF59 /* drawing_white_1.png in Sources */,
+				D95399E7275640870089BF59 /* drawing_white_3.png in Sources */,
+				D95399E8275640870089BF59 /* drawing_white_5.png in Sources */,
+				D95399E9275640870089BF59 /* drawing_white_0.png in Sources */,
+				D95399DD27563B160089BF59 /* color_howto.png in Sources */,
+				D95399D5275630FA0089BF59 /* color_story6.png in Sources */,
+				D95399D6275630FA0089BF59 /* color_story1.png in Sources */,
+				D95399D7275630FA0089BF59 /* color_story5.png in Sources */,
+				D95399D8275630FA0089BF59 /* color_story2.png in Sources */,
+				D95399D9275630FA0089BF59 /* color_story4.png in Sources */,
+				D95399DA275630FA0089BF59 /* color_story3.png in Sources */,
+				D95399DB275630FA0089BF59 /* color_story0.png in Sources */,
+				D95399B82756276D0089BF59 /* color_button_4.png in Sources */,
+				D95399B92756276D0089BF59 /* color_button_2.png in Sources */,
+				D95399BA2756276D0089BF59 /* color_scene1.png in Sources */,
+				D95399BB2756276D0089BF59 /* drawing_5.png in Sources */,
+				D95399BD2756276D0089BF59 /* background.png in Sources */,
+				D95399BE2756276D0089BF59 /* color_endButton.png in Sources */,
+				D95399BF2756276D0089BF59 /* color_button_0.png in Sources */,
+				D95399C02756276D0089BF59 /* drawing_1.png in Sources */,
+				D95399C32756276D0089BF59 /* drawing_0.png in Sources */,
+				D95399C52756276D0089BF59 /* drawing_11.png in Sources */,
+				D95399C62756276D0089BF59 /* color_button_1.png in Sources */,
+				D95399C92756276D0089BF59 /* color_button_3.png in Sources */,
+				D95399CA2756276D0089BF59 /* drawing_2.png in Sources */,
+				D95399CB2756276D0089BF59 /* color_button_5.png in Sources */,
+				D95399CC2756276D0089BF59 /* drawing_4.png in Sources */,
+				D95399CD2756276D0089BF59 /* color_startButton.png in Sources */,
 				D953998C2754BDE30089BF59 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -242,6 +391,12 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KN85W22C75;
 				ENABLE_HARDENED_RUNTIME = YES;
+				"EXCLUDED_ARCHS[sdk=*]" = arm64;
+				"HEADER_SEARCH_PATHS[arch=*]" = /Library/Frameworks/Bangtal/include;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(LOCAL_LIBRARY_DIR)/Frameworks/Bangtal/lib/Release",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -252,6 +407,12 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KN85W22C75;
 				ENABLE_HARDENED_RUNTIME = YES;
+				"EXCLUDED_ARCHS[sdk=*]" = arm64;
+				"HEADER_SEARCH_PATHS[arch=*]" = /Library/Frameworks/Bangtal/include;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(LOCAL_LIBRARY_DIR)/Frameworks/Bangtal/lib/Release",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
